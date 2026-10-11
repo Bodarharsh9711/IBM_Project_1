@@ -1,0 +1,16 @@
+id,name,age,email,salary,department,hire_date
+1,Alice Johnson,34,alice@example.com,72000,Engineering,2019-03-15
+2,Bob Smith,33,bob@example.com,58000,Marketing,2020-07-01
+3,Carol White,29,no-email@example.com,61000,Engineering,2021-01-10
+4,David Brown,41,david@example.com,64000,Sales,2018-11-22
+5,Unknown,36,eve@example.com,54000,HR,2022-04-05
+6,Frank Lee,28,frank@example.com,67000,Engineering,2020-09-13
+7,Grace Kim,52,grace@example.com,91000,Engineering,2020-07-01
+8,Henry Ward,33,henry@example.com,48000,Marketing,2023-02-28
+9,Isla Moore,31,isla@example.com,64000,Sales,2021-06-17
+10,Jack Hill,45,no-email@example.com,77000,HR,2017-08-30
+11,Karen Patel,38,karen@example.com,83000,Engineering,2016-05-21
+12,Unknown,27,liam@example.com,52000,Marketing,2023-11-01
+13,Mia Chen,33,mia@example.com,64000,Engineering,2020-03-08
+14,Noah Davis,33,noah@example.com,69000,Engineering,2019-12-15
+15,Olivia Tan,29,olivia@example.com,61000,Sales,2020-07-01
